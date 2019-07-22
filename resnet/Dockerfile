@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-apiserver:v1.12.1
+FROM gcr.io/tensorflow-serving/resnet
 MAINTAINER xusenme <xusenme@163.com>
