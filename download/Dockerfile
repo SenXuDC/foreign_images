@@ -1,3 +1,2 @@
 FROM xusenme/nettools:latest
-#RUN wget https://developer.nvidia.com/compute/cuda/9.0/Prod/local_installers/cuda_9.0.176_384.81_linux-run
-RUN ping 152.32.128.139
+RUN wget https://developer.nvidia.com/compute/cuda/9.0/Prod/local_installers/cuda_9.0.176_384.81_linux-run
